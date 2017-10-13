@@ -4,13 +4,17 @@ Check our Videos "Learn Yii Framework"
 	Develop and Configuration Yii Theme : https://goo.gl/Tzj1gp
 
 Download the Template :
+
 	Download HTML Template : https://goo.gl/G7fHH1
 	Download Yii Template : https://goo.gl/EfGawQ
 
 
 Steps to Intigrate the Theme
+
 	Download the Zip File / get the Code from Source Tree.
+	
 	Extract it. place 'yiitheme' folder in themes folder in root directory.
+	
 	In WEBROOT/protected/config/main.php
 
 	add 'theme' =>'yiitheme' 
